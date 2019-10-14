@@ -21,4 +21,16 @@ Game Rules:
       the players total score. 
     
    4) The first player to with 100 or more points wins the game.
-   
+
+
+Application Details:
+
+1) This version of PIG allows for a command line parameter using "--numPlayers" to enter in 2 or more players. Anything less than 2 players will not allow the game to continue.
+
+2) When a player has won, a prompt will be provided to start a new game with the same amount of players.
+
+3) A running scoreboard will be displayed at the start of each turn. The scoreboard will display:
+  a) the current players score
+  b) potential score if they choose to hold
+  c) the current highest score
+  d) each players score
